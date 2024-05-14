@@ -1,0 +1,10 @@
+names:
+- Person
+- Car
+- Motorbike
+- Bus
+- Truck
+nc: 5
+test: validation/images
+train: train/images
+val: validation/images
