@@ -36,9 +36,13 @@
    - *Описание:* "Проект Анализ конверсий на сайте автосалона".
    - *Технологии:* PowerBI.
 
-8. 7. **analysis_LTV**
+8. **analysis_LTV**
    - *Описание:* "Анализ данных по стоимости клиента (Customer Lifetime Value)".
    - *Технологии:* pandas, matplotlib, seaborn, scikit-learn, gdown
+
+9. **LSTM_Bitcoin**
+   - *Описание:* "Предсказание цены Bitcoin".
+   - *Технологии:* pandas, matplotlib, requests, scikit-learn, tensorflow, keras, joblib, pymongo, ridfs, pickle   
 ## Как использовать
 
 1. **Клонирование репозитория:** Вы можете клонировать этот репозиторий на свой компьютер, чтобы изучить код и запустить проекты локально. Используйте команду:
